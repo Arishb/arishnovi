@@ -40,3 +40,5 @@ public class SampleJavaProjectTest {
         sjp.setName(null);
     }
 }
+
+
